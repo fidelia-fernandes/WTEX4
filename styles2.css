@@ -53,7 +53,7 @@
 /* Hero Section (Background Image) */
 .hero-section {
     height: calc(100vh - 70px); /* full height minus navbar */
-    background: url("hospital  (1).jpg") no-repeat center center/cover;
+    background: url("hospital (1).jpg") no-repeat center center/cover;
     margin-top: 70px; /* push below navbar */
     display: flex;
     justify-content: center;
@@ -126,3 +126,4 @@
 .login-card button:hover {
     background: #004c99;
 }
+
